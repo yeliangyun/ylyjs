@@ -1,12 +1,12 @@
 # Config
 NODE_ID = 0
 
-MU_SUFFIX = 'zhaoj.in'
+MU_SUFFIX = 'microsoft.com'
 MU_REGEX = '%5m%id.%suffix'
 
 API_INTERFACE = 'modwebapi'  # modwebapi
-WEBAPI_URL = 'https://demo.sspanel.host'
-WEBAPI_TOKEN = 'sspanel'
+WEBAPI_URL = 'https://123456'
+WEBAPI_TOKEN = '123'
 API_UPDATE_TIME = 60
 
 """
